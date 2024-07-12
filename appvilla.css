@@ -1,0 +1,41 @@
+.main-container{
+    background-color: #FF597B;
+    height: 100vh;
+}
+.header{
+    margin-left: 20%;
+}
+.container-flex{
+    display: flex;
+    justify-content: space-evenly;
+}
+.fa-solid{
+    background-color: #FF597B;
+    width: 60px;
+    font-size: 30px;
+    border-radius: 3px;
+    color: aliceblue;
+    text-align: center;
+   }
+.d-flex{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.container-4{
+    margin-top: 70px;
+
+    /* background-color: #FF597B; */
+    /* height: 100vh; */
+}
+.sdd{
+    background-color: #FF597B;
+    /* width: 60px; */
+    font-size: 30px;
+    color: aliceblue;
+    text-align: center;
+   }
+   .container-8{
+    display: flex;
+    justify-content: space-evenly;
+   }
